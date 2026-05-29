@@ -69,15 +69,6 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathadevbr&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathadevbr&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>⭐️ "Desenvolver para criar resoluções e por prazer em construir com base no que a tecnologia proporciona."</i>
 </p>
