@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Jonatha Vianna! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Estudante+de+Ciência+da+Computação;Apaixonado+por+construir+soluções;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Estudante+de+Ciencia+da+Computacao;Construindo+solucoes+eficientes" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,8 +72,8 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathadevbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathadevbr&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathadevbr&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathadevbr&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
